@@ -1,1 +1,1 @@
-# DiscordBot2
+# Discord Christmas Bot
